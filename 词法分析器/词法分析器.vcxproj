@@ -146,6 +146,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Desktop\新建文件夹\main.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\新建文件夹\parser.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\新建文件夹\scaner.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Desktop\新建文件夹\parser.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\新建文件夹\scaner.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
